@@ -1,1 +1,3 @@
 hola
+este es un conflicto que debemos resolver
+esto no es un conflicto
